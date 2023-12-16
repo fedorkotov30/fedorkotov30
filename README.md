@@ -10,9 +10,8 @@
 <br/>
 <br/>
  
-    ⚙️ Технологии, которыми я овладел во время учебы:
- 
-  
+   <p>⚙️ Технологии, которыми я овладел во время учебы:</p> 
+
   <div>
     <img src="https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,5 +33,6 @@
     <br/>
     <br/>
 
-📫 Почта: kotovfedor30@gmail.com
-📱 Телеграмм: <a href="https://t.me/kotov_fedor">@kotov_fedor</a>
+<p>📫 Почта: kotovfedor30@gmail.com</p>
+
+<p>📱 Телеграмм: <a href="https://t.me/kotov_fedor">@kotov_fedor</a></p>
